@@ -1,0 +1,17 @@
+[
+  {
+    "_id": "63d94fa23c28a6c2c0fcf70a",
+    "index": 0,
+    "guid": "511af488-df6b-43fc-914c-63107cfdb169",
+    "isActive": true,
+    "balance": "$1,107.02",
+    "picture": "http://placehold.it/32x32",
+    "age": 28,
+    "eyeColor": "brown",
+    "name": "Raquel Hall",
+    "gender": "female",
+    "company": "VURBO",
+    "email": "raquelhall@vurbo.com",
+    "phone": "+1 (995) 590-2158"
+  }
+]

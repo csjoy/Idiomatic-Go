@@ -1,0 +1,12 @@
+mode: set
+main/adder/adder.go:3.31,5.2 1 1
+main/adder/adder_public.go:3.31,5.2 1 1
+main/table/table.go:8.53,9.12 1 1
+main/table/table.go:10.11,11.26 1 1
+main/table/table.go:12.11,13.26 1 1
+main/table/table.go:14.11,15.26 1 1
+main/table/table.go:16.11,17.16 1 1
+main/table/table.go:20.3,20.26 1 1
+main/table/table.go:21.10,22.50 1 1
+main/table/table.go:17.16,19.4 1 1
+main/cmp/cmp.go:11.48,17.2 1 1
