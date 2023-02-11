@@ -57,9 +57,6 @@ func Map[T1, T2 any](s []T1, f func(T1) T2) []T2 {
 	return r
 }
 
-type IntOrFloat interface {
-	type int, float64
-}
 type Orderable[T any] interface {
 	Order(T) int
 }
